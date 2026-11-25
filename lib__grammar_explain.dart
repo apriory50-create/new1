@@ -532,7 +532,7 @@ so that / such that — результат: It was so cold that we stayed inside
 Частые ошибки русскоязычных:
 - Неправильно: I'll call you when I will get home. → Правильно: I'll call you when I get home.
 - Неправильно: If it will rain, we will stay. → Правильно: If it rains, we will stay.
-- Неправильно: I'll call when I will see him. → Правильно: I'll call when I see him.
+- Неправильно: I'll call when I will see him. → Правильно: I'll call when I see him.''',
 
   'quantifiers': '''Правило:
 much — неисчисляемые в вопросах и отрицаниях (How much money?), many — исчисляемые (many friends).
